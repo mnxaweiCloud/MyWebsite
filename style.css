@@ -40,7 +40,7 @@ html::-webkit-scrollbar {
 }
 header {
     height: 100vh;
-    background: url("./img/HeaderBG.webp") center center/cover no-repeat;
+    background: url("./img/HeaderBG.webp") center center/cover fixed;
     display: flex;
     flex-direction: column;
 }
